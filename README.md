@@ -13,6 +13,8 @@
 
 ![](https://komarev.com/ghpvc/?username=saurabh3460&style=for-the-badge&color=green)
 
+<!-- [![](https://visitcount.itsvg.in/api?id=saurabh3460&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saurabh3460&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh3460&theme=dark&hide_border=false)<br/>
