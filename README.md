@@ -9,7 +9,8 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <h3>Latest Tweets 🧵</h3>
-<p align='center'><a href="https://twitter.com/saurabh3460"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=saurabh3460&layout=wide" width="350" alt="github-readme-twitter"></a></p>
+<!-- <p align='center'><a href="https://twitter.com/saurabh3460"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=saurabh3460&layout=wide" width="350" alt="github-readme-twitter"></a></p> -->
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=saurabh3460)](https://github.com/gazf/github-readme-twitter)
 
 ![](https://komarev.com/ghpvc/?username=saurabh3460&style=for-the-badge&color=green)
 
