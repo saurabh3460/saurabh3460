@@ -10,7 +10,7 @@
 
 <h3>Latest Tweets 🧵</h3>
 <!-- <p align='center'><a href="https://twitter.com/saurabh3460"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=saurabh3460&layout=wide" width="350" alt="github-readme-twitter"></a></p> -->
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=saurabh3460)](https://github.com/gazf/github-readme-twitter)
+[![](https://github-readme-twitter.gazf.vercel.app/api?id=saurabh3460)](https://github.com/gazf/github-readme-twitter)
 
 ![](https://komarev.com/ghpvc/?username=saurabh3460&style=for-the-badge&color=green)
 
